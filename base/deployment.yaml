@@ -19,4 +19,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: I just deployed this on Kubernetes using argocd!
+          value: I just deployed this on Kubernetes using argocd 1.20!
